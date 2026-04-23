@@ -1,0 +1,22 @@
+========================================
+🌐 HTTPS Server running on port 8443
+✅ CONNECTION SECURED with TLS/SSL!
+========================================
+
+Endpoints:
+1. Home Page: https://localhost:8443
+2. Products Page: https://localhost:8443/
+3. Payment Page: https://localhost:8443/payment
+4. Transaction Success: https://localhost:8443/transaction-success
+5. Transaction Logs: https://localhost:8443/transaction-logs
+6. View Logs API: https://localhost:8443/api/payment/logs
+========================================
+
+Security Features:
+✓ TLS/SSL Encryption
+✓ Content Security Policy
+✓ Strict-Transport-Security
+✓ X-Frame-Options: DENY
+✓ X-Content-Type-Options: nosniff
+========================================
+
